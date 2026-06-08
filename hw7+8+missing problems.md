@@ -1,3 +1,5 @@
+6.5 missing problems: https://austin-rt-dev.s3.us-east-2.amazonaws.com/6.5+missing+problems.mov
+
 Homework 7
 
 a. Optimized Singleton — Double-Checked Locking
